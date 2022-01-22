@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @fiweplay
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Привет, я @fiweplay
+- 👀 Меня интерисует изучение C++ и создание своей первой игры
+- 🌱 Я сейчас только учусь
+- 💞️ Всегда готов к поддержке
+- 📫 Со мной можно связаться по почте
 
 <!---
 fiweplay/fiweplay is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
